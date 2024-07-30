@@ -1,0 +1,7 @@
+{
+    "token": "token",
+    "default_prefix": ">",
+    "color": "BLUE",
+    "error": "RED",
+    "success": "GREEN"
+}
